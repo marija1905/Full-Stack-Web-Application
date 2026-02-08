@@ -1,0 +1,233 @@
+[
+  {
+    "naziv": "Planinska oaza",
+    "mesto": "Zlatibor",
+    "kapacitet": 6,
+    "cenovnik": {
+      "letnja": 65,
+      "zimska": 50
+    },
+    "telefon": "+381641234567",
+    "galerija": ["images/vikendica1_1.jpg", "images/vikendica1_2.jpg", "images/vikendica1_3.jpg"],
+    "usluge": ["WiFi", "Parking", "Sauna", "Roštilj"],
+    "ocena": 5,
+    "komentari": [],
+    "rezervacije": [
+      {
+        "turista": "milos123",
+        "datum_od": "2025-09-29 14:00:00",
+        "datum_do": "2025-10-02 10:00:00",
+        "datum_rezervacije": "2025-09-28 16:00:00",
+        "status": "neaktivna",
+        "odrasli": 2,
+        "deca": 1,
+        "opis": "",
+        "komentar": ""
+      },
+      {
+        "turista": "milos123",
+        "datum_od": "2025-09-29 14:00:00",
+        "datum_do": "2025-10-02 10:00:00",
+        "datum_rezervacije": "2025-09-28 16:00:01",
+        "status": "neaktivna",
+        "odrasli": 4,
+        "deca": 0,
+        "opis": "",
+        "komentar": ""
+      },
+      {
+        "turista": "sofija33",
+        "datum_od": "2025-09-25 15:00:00",
+        "datum_do": "2025-09-28 11:00:00",
+        "datum_rezervacije": "2025-09-24 10:00:00",
+        "status": "neaktivna",
+        "odrasli": 3,
+        "deca": 2,
+        "opis": "",
+        "komentar": ""
+      },
+      {
+        "turista": "stefan77",
+        "datum_od": "2025-10-01 12:00:00",
+        "datum_do": "2025-10-03 10:00:00",
+        "datum_rezervacije": "2025-10-01 09:00:00",
+        "status": "neaktivna",
+        "odrasli": 2,
+        "deca": 0,
+        "opis": "",
+        "komentar": ""
+      }
+    ],
+    "lokacija": {
+      "lat": 43.7294,
+      "lng": 19.6922
+    },
+    "vlasnik": "ana_k",
+	"datumDo": ""
+  },
+  {
+    "naziv": "Jezerski raj",
+    "mesto": "Perućac",
+    "kapacitet": 4,
+    "cenovnik": {
+      "letnja": 55,
+      "zimska": 40
+    },
+    "telefon": "+381642223334",
+    "galerija": ["images/vikendica2_1.jpg", "images/vikendica2_2.jpg"],
+    "usluge": ["WiFi", "Čamac", "Parking"],
+    "ocena": 4,
+    "komentari": [],
+    "rezervacije": [
+      {
+        "turista": "stefan77",
+        "datum_od": "2025-09-30 12:00:00",
+        "datum_do": "2025-10-03 10:00:00",
+        "datum_rezervacije": "2025-09-29 14:00:00",
+        "status": "neaktivna",
+        "odrasli": 2,
+        "deca": 1,
+        "opis": "",
+        "komentar": ""
+      },
+      {
+        "turista": "milos123",
+        "datum_od": "2025-10-10 14:00:00",
+        "datum_do": "2025-10-13 10:00:00",
+        "datum_rezervacije": "2025-10-01 16:00:00",
+        "status": "aktivna",
+        "odrasli": 3,
+        "deca": 0,
+        "opis": "",
+        "komentar": ""
+      }
+    ],
+    "lokacija": {
+      "lat": 43.9700,
+      "lng": 19.4000
+    },
+    "vlasnik": "ivana88",
+	"datumDo": ""
+  },
+  {
+    "naziv": "Šumski kutak",
+    "mesto": "Tara",
+    "kapacitet": 5,
+    "cenovnik": {
+      "letnja": 60,
+      "zimska": 45
+    },
+    "telefon": "+381641112223",
+    "galerija": ["images/vikendica3_1.jpg", "images/vikendica3_2.jpg", "images/vikendica3_3.jpg"],
+    "usluge": ["WiFi", "Roštilj", "Bazen"],
+    "ocena": 4.5,
+    "komentari": [],
+    "rezervacije": [
+      {
+        "turista": "marija95",
+        "datum_od": "2025-09-28 13:00:00",
+        "datum_do": "2025-10-01 09:00:00",
+        "datum_rezervacije": "2025-09-27 10:30:00",
+        "status": "neaktivna",
+        "odrasli": 2,
+        "deca": 0,
+        "opis": "",
+        "komentar": ""
+      },
+      {
+        "turista": "milos123",
+        "datum_od": "2025-10-02 14:00:00",
+        "datum_do": "2025-10-03 19:00:00",
+        "datum_rezervacije": "2025-10-01 16:00:00",
+        "status": "neaktivna",
+        "odrasli": 3,
+        "deca": 1,
+        "opis": "",
+        "komentar": ""
+      }
+    ],
+    "lokacija": {
+      "lat": 43.9064,
+      "lng": 19.5758
+    },
+    "vlasnik": "ana_k",
+	"datumDo": ""
+  },
+  {
+    "naziv": "Vikendica Sunce",
+    "mesto": "Kopaonik",
+    "kapacitet": 8,
+    "cenovnik": {
+      "letnja": 80,
+      "zimska": 70
+    },
+    "telefon": "+381638887776",
+    "galerija": ["images/vikendica4_1.jpg", "images/vikendica4_2.jpg"],
+    "usluge": ["WiFi", "Parking", "Spa centar", "Teretana"],
+    "ocena": 5,
+    "komentari": [],
+    "rezervacije": [
+      {
+        "turista": "nikola90",
+        "datum_od": "2025-09-27 16:00:00",
+        "datum_do": "2025-09-30 11:00:00",
+        "datum_rezervacije": "2025-09-26 12:00:00",
+        "status": "neaktivna",
+        "odrasli": 4,
+        "deca": 2,
+        "opis": "",
+        "komentar": ""
+      },
+      {
+        "turista": "milos123",
+        "datum_od": "2025-09-02 14:00:00",
+        "datum_do": "2025-09-03 19:00:00",
+        "datum_rezervacije": "2025-09-01 16:00:00",
+        "status": "neaktivna",
+        "odrasli": 2,
+        "deca": 0,
+        "opis": "",
+        "komentar": ""
+      }
+    ],
+    "lokacija": {
+      "lat": 43.2853,
+      "lng": 20.8225
+    },
+    "vlasnik": "ivana88",
+	"datumDo": ""
+  },
+  {
+    "naziv": "Etno kuća Drina",
+    "mesto": "Bajina Bašta",
+    "kapacitet": 3,
+    "cenovnik": {
+      "letnja": 45,
+      "zimska": 35
+    },
+    "telefon": "+381642998877",
+    "galerija": ["images/vikendica5_1.jpg", "images/vikendica5_2.jpg"],
+    "usluge": ["Parking", "Roštilj"],
+    "ocena": 4,
+    "komentari": [],
+    "rezervacije": [
+      {
+        "turista": "marija95",
+        "datum_od": "2025-09-26 15:00:00",
+        "datum_do": "2025-09-28 12:00:00",
+        "datum_rezervacije": "2025-09-25 10:00:00",
+        "status": "neaktivna",
+        "odrasli": 2,
+        "deca": 0,
+        "opis": "",
+        "komentar": ""
+      }
+    ],
+    "lokacija": {
+      "lat": 43.9705,
+      "lng": 19.5673
+    },
+    "vlasnik": "ana_k",
+	"datumDo": ""
+  }
+]
